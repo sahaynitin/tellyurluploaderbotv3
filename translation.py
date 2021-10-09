@@ -1,10 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hello,
-I am Fastest URL Uploader Bot! Developed by @Tellybots_4u
-
-Please send me any direct download URL Link, i can upload to telegram as File/Video
-
-Tellyurluploader bot by @Tellybots_4u"""
+    START_TEXT = """"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Contact @sahaynitin815 for Details"

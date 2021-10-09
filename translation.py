@@ -45,9 +45,13 @@ Tellyurluploader bot by @Tellybots_4u"""
     NO_VOID_FORMAT_FOUND = "Sorry, Your link doesnot cointain any video\n<b>YouTubeDL</b> said: {}\nFor More Contact @tellybots_support"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """⭕️<b>My Name : Telly-URL-Uploader</b>
-⭕️<b>Developer :</b> @Tellybots_4u
+
+👲<b>Developer :</b> @Tellybots_4u
+
 ⭕️<b>Language :</b> <code>Python3</code>
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+
+⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
+
 ⭕️<b>Source Code :</b> 👉 <a href='https://telegram.dog/tellybots_4u'>Click Here</a>"""
     
     HELP_USER = """Hi I am URL Uploader bot..
@@ -62,8 +66,6 @@ Tellyurluploader bot by @Tellybots_4u"""
    DFile  - Give File without Screenshots
    
 Developer : @Tellybots_4u
-
-Contact @sahaynitin815 for getting premium subscription
 
 Support Group : © @Tellybots_support"""
  

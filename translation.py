@@ -10,16 +10,17 @@ Made With 💕 By @Tellybots_4u"""
     UPGRADE_TEXT = "Contact @sahaynitin815 for Details"
     FORMAT_SELECTION = """Select the desired formats for the uploading process"""
 
-🎞️ Video = Upload as Streamable.
+🎞️ 𝗩𝗜𝗗𝗘𝗢 = Upload as Streamble.
 
-📂 File = Upload as File.
+📂 𝗙𝗜𝗟𝗘 = Upload as File.
+•••••••••••••••••••
 
 
 ➼/deletethumbnail = To Delete thumbnail
 
 ➼Please send photo to save Thumbnail before you press any Below Button
 
-👲 By: @Tellybots_4u."""
+👲 Powered By: @Tellybots_4u."""
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos Follow the steps :-
 
 ➲For Custom Name

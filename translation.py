@@ -1,5 +1,10 @@
 class Translation(object):
-    START_TEXT = """"""
+    START_TEXT = """Hey {}
+
+I am Fastest Url Uploader Bot 
+Just send me the Url to Get started !
+
+Made With 💕 By @Tellybots_4u"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Contact @sahaynitin815 for Details"
@@ -8,9 +13,9 @@ class Translation(object):
 🎞️ 𝗩𝗜𝗗𝗘𝗢 = Upload as Streamable.
 
 📂 𝗙𝗜𝗟𝗘 = Upload as File.
-•••••••••••••••••••
 
-➼/delthumbnail = To Delete thumbnail
+
+➼/deletethumbnail = To Delete thumbnail
 
 ➼Please send photo to save Thumbnail before you press any Below Button
 
@@ -39,20 +44,20 @@ class Translation(object):
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "Sorry, Your link doesnot cointain any video\n<b>YouTubeDL</b> said: {}\nFor More Contact @tellybots_support"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    CURENT_PLAN_DETAILS = """⭕️<b>My Name : Telly-URL-Uploader</b>
+    CURENT_PLAN_DETAILS = """🤖<b>My Name : Telly-URL-Uploader</b>
 
 👲<b>Developer :</b> @Tellybots_4u
 
-⭕️<b>Language :</b> <code>Python3</code>
+🎧<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
+📚<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Source Code :</b> 👉 <a href='https://telegram.dog/tellybots_4u'>Click Here</a>"""
+🧑‍💻<b>Server :</b>  <a href='https://heroku.com'>Click Here</a>"""
     
     HELP_USER = """Hi I am URL Uploader bot..
-👉  Follow the below steps to download :-
+  Follow the below steps to download :-
 
-1. Send url (Link|New Name with Extension).
+1. Send url Link|New Name with Extension.
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
    SVideo - Give File as video with Screenshots

@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hey {}
+    START_TEXT = """Hey
 
 I am Fastest Url Uploader Bot 
 Just send me the Url to Get started !

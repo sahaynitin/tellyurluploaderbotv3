@@ -288,7 +288,7 @@ async def echo(bot, update):
             thumb_image_path = None
         await bot.send_message(
             chat_id=update.chat.id,
-            text=Translation.FORMAT_SELECTION.format(thumbnail) + "\n" + Translation.SET_CUSTOM_USERNAME_PASSWORD,
+            text=Transinline.Choose Your Upload Form(thumbnail) + "\n" + Translation.SET_CUSTOM_USERNAME_PASSWORD,
             reply_markup=reply_markup,
             parse_mode="html",
             reply_to_message_id=update.message_id
@@ -313,7 +313,7 @@ async def echo(bot, update):
         reply_markup = InlineKeyboardMarkup(inline_keyboard)
         await bot.send_message(
             chat_id=update.chat.id,
-            text=Translation.FORMAT_SELECTION.format(""),
+            text=Transinline.Choose Your Upload Form(""),
             reply_markup=reply_markup,
             parse_mode="html",
             reply_to_message_id=update.message_id

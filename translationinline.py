@@ -1,5 +1,5 @@
 import os
-from translationinline
+from youtube_dl
 
 @Bot.on_message(filters.private & filters.media)
 async def _main(_, message):
@@ -9,7 +9,7 @@ async def _main(_, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("file", callback_data="cb_string_video"),
+                [InlineKeyboardButton("file", callback_data="cb_string_file"),
                  InlineKeyboardButton("video", callback_data="cb_string_video")]
             ]
         ),

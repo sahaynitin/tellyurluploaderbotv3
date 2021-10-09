@@ -19,7 +19,7 @@ Made With 💕 By @Tellybots_4u"""
 
 ➼Please send photo to save Thumbnail before you press any Below Button
 
-👲Powered By: @Tellybots_4u."""
+👲 By: @Tellybots_4u."""
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos Follow the steps :-
 
 ➲For Custom Name

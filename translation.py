@@ -54,8 +54,7 @@ Made With 💕 By @Tellybots_4u"""
 
 🧑‍💻<b>Server :</b>  <a href='https://heroku.com'>Click Here</a>"""
     
-    HELP_USER = """Hi I am URL Uploader bot..
-  Follow the below steps to download :-
+    HELP_USER = """
 
 1. Send url Link|New Name with Extension.
 2. Send Custom Thumbnail (Optional).
@@ -65,9 +64,9 @@ Made With 💕 By @Tellybots_4u"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-Developer : @Tellybots_4u
+Made With 💕 By : @Tellybots_4u
 
-Support Group : © @Tellybots_support"""
+💬 Support Group : © @Tellybots_support"""
  
         
         

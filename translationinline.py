@@ -1,5 +1,5 @@
 import os
-from translation import Format_selection
+from translation import FORMAT_SELECTION
 
 @Bot.on_message(filters.private & filters.media)
 async def _main(_, message):

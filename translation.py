@@ -8,7 +8,7 @@ Tellyurluploader bot by @Tellybots_4u"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Contact @sahaynitin815 for Details"
-    FORMAT_SELECTION = """📭 𝗦𝗲𝗹𝗲𝗰𝘁 𝗔𝗻𝗱 𝗖𝗵𝗼𝘀𝗲 𝗬𝗼𝘂𝗿 𝗙𝗼𝗿𝗺𝗮𝘁👇
+    FORMAT_SELECTION = """Choose Your Upload Form"""
 
 🎞️ 𝗩𝗜𝗗𝗘𝗢 = Upload as Streamable.
 

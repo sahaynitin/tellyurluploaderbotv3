@@ -9,7 +9,7 @@ async def _main(_, message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("Upload to GoFile.io", callback_data="uptogofile"),
-                 InlineKeyboardButton("Upload to Streamtape", callback_data="")]
+                [InlineKeyboardButton("DFile", callback_data="uptogofile"),
+                 InlineKeyboardButton("Video", callback_data="")]
             ]
         ),

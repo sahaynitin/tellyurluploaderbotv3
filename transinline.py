@@ -4,7 +4,7 @@ from youtube_dl_echo import youtube_dl
 @Bot.on_message(filters.private & filters.media)
 async def _main(_, message):
     await message.reply_text(
-        "choose your Upload form ?",
+        "Choose Your Upload Form ?",
         parse_mode="Markdown",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(

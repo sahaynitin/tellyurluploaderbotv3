@@ -8,11 +8,11 @@ Made With 💕 By @Tellybots_4u"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Contact @sahaynitin815 for Details"
-    FORMAT_SELECTION = """Choose Your Upload Form"""
+    FORMAT_SELECTION = """Select the desired formats for the uploading process"""
 
-🎞️ 𝗩𝗜𝗗𝗘𝗢 = Upload as Streamable.
+🎞️ Video = Upload as Streamable.
 
-📂 𝗙𝗜𝗟𝗘 = Upload as File.
+📂 File = Upload as File.
 
 
 ➼/deletethumbnail = To Delete thumbnail
@@ -28,9 +28,9 @@ Made With 💕 By @Tellybots_4u"""
 ➲For Premium Videos
 ➼URL | FileName.Extension | username | password"""
     NOYES_URL = "Unknown URL detected. Use an Another Url"
-    DOWNLOAD_START = "Downloading to my server \n📥 Please wait...⏳ ⚡⚡ \nIt takes time depend on File Size"
-    UPLOAD_START = "Yay,File Download Successfully 😊 \nNow Uploading to Telegram 📤"
-    RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). \nNeverthless, Yay,File Download Successfully 😊  \nNow Uploading to Telegram 📤."
+    DOWNLOAD_START = "🔻Downloading Content To My Server🔻"
+    UPLOAD_START = "Yay,File Download Successfully 💕 \nNow Uploading to Telegram 🪐"
+    RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). \nYay,File Download Successfully 💕  \nNow Uploading to Telegram 🪐."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2 GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using me. \nDownloaded in {} seconds. \nJoin : @Tellybots_4u . \nUploaded in {} seconds."
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Thanks for using me. \nDownloaded in {} seconds. \nJoin : @Tellybots_4u . \nUploaded in {} seconds"
@@ -42,7 +42,7 @@ Made With 💕 By @Tellybots_4u"""
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = "Sorry, Your link doesnot cointain any video\n<b>YouTubeDL</b> said: {}\nFor More Contact @tellybots_support"
+    NO_VOID_FORMAT_FOUND = "Sorry, Your link doesnot contain any video\n<b>YouTubeDL</b> said: {}\nFor More Contact @tellybots_support"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """🤖<b>My Name : Telly-URL-Uploader</b>
 
